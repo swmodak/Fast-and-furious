@@ -1,0 +1,23 @@
+#### Audit Result for Cisco Devices ####
+
+##############
+Device_127.0.0.1
+##############
+service password-encryption = FAIL 
+enable secret = FAIL 
+logging = FAIL 
+ntp = FAIL 
+ip http server = FAIL 
+
+ Total Fail count: 5/5 
+
+##############
+Device_127.0.0.2
+##############
+service password-encryption = FAIL 
+enable secret = FAIL 
+logging = FAIL 
+ntp = FAIL 
+ip http server = FAIL 
+
+ Total Fail count: 5/5 
